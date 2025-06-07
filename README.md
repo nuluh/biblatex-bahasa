@@ -1,15 +1,3 @@
-Ini adalah *fork* dari repositori resmi [biblatex](https://github.com/plk/biblatex) yang dikhususkan untuk pengembangan dan pemeliharaan lokalisasi **Bahasa Indonesia**.
-
-Fokus utama *fork* ini adalah untuk berkolaborasi dalam menerjemahkan dan menyempurnakan berkas `bahasa.lbx`. Kontribusi dan saran sangat terbuka untuk meningkatkan kualitas terjemahan Bahasa Indonesia.
-
-Untuk informasi umum mengenai paket `biblatex`, laporan kutu (*bug*) untuk paket utama, atau lokalisasi bahasa lain, silakan merujuk ke repositori aslinya.
-
----
-
-This is a fork of the official [biblatex repository](https://github.com/plk/biblatex) specifically for the development and maintenance of the **Bahasa Indonesia** localization. The primary focus of this fork is to collaborate on translating and refining the `bahasa.lbx` file. For general information or issues related to the main package, please refer to the original repository.
-
----
-
 # Overview
 
 This package provides advanced bibliographic facilities for use with LaTeX.
